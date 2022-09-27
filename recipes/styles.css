@@ -1,0 +1,45 @@
+* {
+
+    font-family: Verdana;
+
+}
+
+
+h1 {
+
+    background-color: black;
+    color: white;
+    
+} 
+
+
+img {
+
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+
+    
+    background-color: grey;
+    color: white;
+}
+
+p {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+}
+
+ul {
+
+    font-size: large
+    ;
+}
+
+li {
+
+    background-color: aquamarine;
+
+}
